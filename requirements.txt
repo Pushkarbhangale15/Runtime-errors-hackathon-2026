@@ -1,0 +1,21 @@
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# ML - URL model
+scikit-learn
+joblib
+tldextract
+pandas
+numpy
+
+# ML - Prompt model
+transformers
+torch
+datasets
+
+# Utils
+python-dotenv
+requests
+httpx
