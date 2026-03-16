@@ -1,4 +1,4 @@
-# 🛡️ ThreatLens
+# 👁️ Third Eye
 > AI-powered cyber threat detection platform that detects, scores, and *explains* phishing, malicious URLs, and suspicious messages in real time.
 
 ## Team
