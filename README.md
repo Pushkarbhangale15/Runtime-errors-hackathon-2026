@@ -1,4 +1,4 @@
-# 🛡️ ThreatLens
+# 🛡️ Third Eye
 > AI-powered cyber threat detection platform that detects, scores, and *explains* phishing, malicious URLs, and suspicious messages in real time.
 
 ## Team
@@ -14,7 +14,7 @@ Design and develop a smart cyber defense platform that can detect, analyze, and 
 
 ## Project Structure
 ```
-ThreatLens/
+Third Eye/
 ├── data/
 │   ├── raw/                    # PhishTank CSVs, spam datasets
 │   └── processed/              # Cleaned, tokenized data
@@ -63,7 +63,7 @@ ThreatLens/
 
 ```bash
 git clone <repo-url>
-cd ThreatLens
+cd Third Eye
 pip install -r requirements.txt
 ```
 
